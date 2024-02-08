@@ -1,7 +1,5 @@
 from openai import OpenAI
 
-# Assuming you have set OPENAI_API_KEY in your environment variables.
-# Alternatively, you can explicitly set your API key here, but be cautious with hardcoding sensitive information.
 client = OpenAI()
 
 response = client.Chat.create(
