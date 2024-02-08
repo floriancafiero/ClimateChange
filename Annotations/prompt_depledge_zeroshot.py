@@ -6,7 +6,7 @@ model="gpt-4",
 messages=[
     {
     "role": "user",
-    "content": "Let us proceed step by step. A) Please learn the following definition of obstruction in international negotiations. Obstruction are of seven types. 1) Parallel Progress:	the delegation repeatedly and openly threatens to block progress on an item it is less concerned about, if insufficient progress is made on another issue that it does care about.
+    "content": "Let us proceed step by step. A Please learn the following definition of obstruction in international negotiations. Obstruction are of seven types. 1) Parallel Progress:	the delegation repeatedly and openly threatens to block progress on an item it is less concerned about, if insufficient progress is made on another issue that it does care about.
 2) Repetition and Propagation: repeatedly proposing new agenda items on the matter and continuously invoking the issue under other agenda items. 
 3) Postponement and Delay: trying to postpone actual decisions
 4) Refusal to Negotiate: refusing to negotiate, invoking (unlikely) excuses. 
